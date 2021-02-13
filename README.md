@@ -9,4 +9,5 @@
 للمزيد من المعلومات يرجى قراءة المقال كاملاً على منصة الذكاء الصناعي باللغة العربية https://aiinarabic.com/styling-images-with-convolutional-neural-networks/
 
 
-This code is originally from https://gsurma.medium.com/style-transfer-styling-images-with-convolutional-neural-networks-7d215b58f461
+مصدر هذا العمل 
+https://gsurma.medium.com/style-transfer-styling-images-with-convolutional-neural-networks-7d215b58f461
